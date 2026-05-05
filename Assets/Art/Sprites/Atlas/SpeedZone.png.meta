@@ -1,0 +1,1282 @@
+fileFormatVersion: 2
+guid: 596a47daa5425d548b83339b68867174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5788882212347611295
+    second: sprite-64px-36_0
+  - first:
+      213: -3802435752332359013
+    second: sprite-64px-36_1
+  - first:
+      213: -7438525555248295019
+    second: sprite-64px-36_2
+  - first:
+      213: -1663475628400231959
+    second: sprite-64px-36_3
+  - first:
+      213: 3256868054647887679
+    second: sprite-64px-36_4
+  - first:
+      213: 5582257012221617215
+    second: sprite-64px-36_5
+  - first:
+      213: -5899636655444228082
+    second: sprite-64px-36_6
+  - first:
+      213: -7696120954875844389
+    second: sprite-64px-36_7
+  - first:
+      213: 3013430989060970597
+    second: sprite-64px-36_8
+  - first:
+      213: 3081448772455449623
+    second: sprite-64px-36_9
+  - first:
+      213: 1334291680955545199
+    second: sprite-64px-36_10
+  - first:
+      213: -5796212131672462325
+    second: sprite-64px-36_11
+  - first:
+      213: -3925461857150840724
+    second: sprite-64px-36_12
+  - first:
+      213: -626972806520982866
+    second: sprite-64px-36_13
+  - first:
+      213: 5055468542812085139
+    second: sprite-64px-36_14
+  - first:
+      213: -3897722079595522837
+    second: sprite-64px-36_15
+  - first:
+      213: 3569572198582317091
+    second: sprite-64px-36_16
+  - first:
+      213: -6145191826090330006
+    second: sprite-64px-36_17
+  - first:
+      213: 1495742754435218048
+    second: sprite-64px-36_18
+  - first:
+      213: 8863626302623898977
+    second: sprite-64px-36_19
+  - first:
+      213: 3636321353366699911
+    second: sprite-64px-36_20
+  - first:
+      213: -1234470640134503184
+    second: sprite-64px-36_21
+  - first:
+      213: -1872544999576597777
+    second: sprite-64px-36_22
+  - first:
+      213: -680709964421939368
+    second: sprite-64px-36_23
+  - first:
+      213: -5862951937742424550
+    second: sprite-64px-36_24
+  - first:
+      213: -8521957307574413315
+    second: sprite-64px-36_25
+  - first:
+      213: 7263344882124593027
+    second: sprite-64px-36_26
+  - first:
+      213: 6980267037669337106
+    second: sprite-64px-36_27
+  - first:
+      213: 6619118576150816539
+    second: sprite-64px-36_28
+  - first:
+      213: -6824165178042337147
+    second: sprite-64px-36_29
+  - first:
+      213: -1786767899809287884
+    second: sprite-64px-36_30
+  - first:
+      213: 3996926236387392752
+    second: sprite-64px-36_31
+  - first:
+      213: 6770963192556961668
+    second: sprite-64px-36_32
+  - first:
+      213: -3017510777540369789
+    second: sprite-64px-36_33
+  - first:
+      213: -9129996375497707502
+    second: sprite-64px-36_34
+  - first:
+      213: 6771531557301900720
+    second: sprite-64px-36_35
+  - first:
+      213: -3774044680340388011
+    second: sprite-64px-36_36
+  - first:
+      213: -885863152728827217
+    second: sprite-64px-36_37
+  - first:
+      213: -6061793200521430406
+    second: sprite-64px-36_38
+  - first:
+      213: -6115053633647574101
+    second: sprite-64px-36_39
+  - first:
+      213: -1790998299594094280
+    second: sprite-64px-36_40
+  - first:
+      213: 6231154977526237545
+    second: sprite-64px-36_41
+  - first:
+      213: 4396069373756288852
+    second: sprite-64px-36_42
+  - first:
+      213: -1441024186562139181
+    second: sprite-64px-36_43
+  - first:
+      213: 592624699579958302
+    second: sprite-64px-36_44
+  - first:
+      213: 299200498963259679
+    second: sprite-64px-36_45
+  - first:
+      213: 5441090368642978405
+    second: sprite-64px-36_46
+  - first:
+      213: -7450357429402768329
+    second: sprite-64px-36_47
+  - first:
+      213: -1805690646499500795
+    second: sprite-64px-36_48
+  - first:
+      213: -6752577719363084006
+    second: sprite-64px-36_49
+  - first:
+      213: -7233424706688222992
+    second: sprite-64px-36_50
+  - first:
+      213: -5796357573573743071
+    second: sprite-64px-36_51
+  - first:
+      213: -4961295989145080798
+    second: sprite-64px-36_52
+  - first:
+      213: 3736133972284811182
+    second: sprite-64px-36_53
+  - first:
+      213: -8529190035862432410
+    second: sprite-64px-36_54
+  - first:
+      213: -4370675449328909076
+    second: sprite-64px-36_55
+  - first:
+      213: -8400035150586858269
+    second: sprite-64px-36_56
+  - first:
+      213: -6581439822744008996
+    second: sprite-64px-36_57
+  - first:
+      213: -4891371640751542856
+    second: sprite-64px-36_58
+  - first:
+      213: 7425444031642001565
+    second: sprite-64px-36_59
+  - first:
+      213: 2952117838791805611
+    second: sprite-64px-36_60
+  - first:
+      213: 3531066409452054680
+    second: sprite-64px-36_61
+  - first:
+      213: 3678987234607013048
+    second: sprite-64px-36_62
+  - first:
+      213: 3734178383953595907
+    second: sprite-64px-36_63
+  - first:
+      213: 3899869559950543092
+    second: sprite-64px-36_64
+  - first:
+      213: -108126686483399573
+    second: sprite-64px-36_65
+  - first:
+      213: -2964366196931574146
+    second: sprite-64px-36_66
+  - first:
+      213: -933668205427143444
+    second: sprite-64px-36_67
+  - first:
+      213: 1118649317309321917
+    second: sprite-64px-36_68
+  - first:
+      213: -1202963494099134704
+    second: sprite-64px-36_69
+  - first:
+      213: -7097757674951269612
+    second: sprite-64px-36_70
+  - first:
+      213: 5047108134543928306
+    second: sprite-64px-36_71
+  - first:
+      213: -6237158945661950665
+    second: sprite-64px-36_72
+  - first:
+      213: -8680876093542515249
+    second: sprite-64px-36_73
+  - first:
+      213: -4227223196227920108
+    second: sprite-64px-36_74
+  - first:
+      213: 526210203248492945
+    second: sprite-64px-36_75
+  - first:
+      213: 4580543428233137243
+    second: sprite-64px-36_76
+  - first:
+      213: 1748335194195723733
+    second: sprite-64px-36_77
+  - first:
+      213: -7941953623203273657
+    second: sprite-64px-36_78
+  - first:
+      213: -2129155815999102814
+    second: sprite-64px-36_79
+  - first:
+      213: -7070767539503539491
+    second: sprite-64px-36_80
+  - first:
+      213: 6826830299805652150
+    second: sprite-64px-36_81
+  - first:
+      213: -9092238163518742283
+    second: sprite-64px-36_82
+  - first:
+      213: 3969056687650364326
+    second: sprite-64px-36_83
+  - first:
+      213: 1506615948032512636
+    second: sprite-64px-36_84
+  - first:
+      213: -203795181106238482
+    second: sprite-64px-36_85
+  - first:
+      213: -4995452113852826740
+    second: sprite-64px-36_86
+  - first:
+      213: -3650612468736098936
+    second: sprite-64px-36_87
+  - first:
+      213: 8303994434534684450
+    second: sprite-64px-36_88
+  - first:
+      213: -5986895336289712853
+    second: sprite-64px-36_89
+  - first:
+      213: -2773648744995792323
+    second: sprite-64px-36_90
+  - first:
+      213: -553834115951681022
+    second: sprite-64px-36_91
+  - first:
+      213: -7199838654400149462
+    second: sprite-64px-36_92
+  - first:
+      213: 5977120789918767226
+    second: sprite-64px-36_93
+  - first:
+      213: -4618780850943098436
+    second: sprite-64px-36_94
+  - first:
+      213: 8294498473344318981
+    second: sprite-64px-36_95
+  - first:
+      213: -2888339048121279046
+    second: sprite-64px-36_96
+  - first:
+      213: -6474175922086543687
+    second: sprite-64px-36_97
+  - first:
+      213: 8387998518800154459
+    second: sprite-64px-36_98
+  - first:
+      213: -707530459831934241
+    second: sprite-64px-36_99
+  - first:
+      213: -1470331215703364435
+    second: sprite-64px-36_100
+  - first:
+      213: -3199942469965119024
+    second: sprite-64px-36_101
+  - first:
+      213: -4198741089811454051
+    second: sprite-64px-36_102
+  - first:
+      213: 8231484130287450075
+    second: sprite-64px-36_103
+  - first:
+      213: 3105590978427286025
+    second: sprite-64px-36_104
+  - first:
+      213: 7073473334533866876
+    second: sprite-64px-36_105
+  - first:
+      213: -5572648933672400563
+    second: sprite-64px-36_106
+  - first:
+      213: 3931757744970792055
+    second: sprite-64px-36_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpeedZone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5c8a3ef6767b64ca8324b4224ec3d3
+      internalID: -2071601715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 195
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384c29c0d1a29d45b02687a7c79a672
+      internalID: -517976755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 195
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576ab4c0c7f464c4f8340140fcd863b9
+      internalID: -141249119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 195
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268bc2ce326acf4fb8cc0ef27d9fd55
+      internalID: -895037892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 195
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63865845a2500d848b3ae6d28482e375
+      internalID: 1425222980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 195
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7504c47d6085429183ea6b1dff3ee
+      internalID: 1257330994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce0157f51739e42804035b53e4191a
+      internalID: -171605492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 156
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1643139164c204844bfa879e8d2c366d
+      internalID: 100855303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 156
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c01ae10381a584197cb591cdc10030
+      internalID: 2042006203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 156
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404ba75d5e5055428b81aa4e5daddd5
+      internalID: 799191643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd702d70ce834c4db9699c9b7787dec
+      internalID: -1335807526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 156
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b5d48f7755684ba9ac60d1a2d0f54
+      internalID: -46918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08510424e101a6148b8d33b60b27cdbc
+      internalID: 2105293846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 117
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a7a996cb56e04fae4dae13b690383
+      internalID: -715291909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 117
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee83d6f783e12b4bb5e8c6b937efd4d
+      internalID: 393877860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 117
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951322b77fad44045975fd123e86b4ab
+      internalID: 994114608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 117
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8773473ee65c1489cc0f36fc8cdefc
+      internalID: 917398390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 117
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40114414bda16df4dbdbd4bf7347bee4
+      internalID: 1123329201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a185ce040248b4aadc175a88fe8531
+      internalID: -1438140922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 78
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed4f9789a6350458b84061c1102c7e
+      internalID: 1111852472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05deb6c4e1a94bc4082298ff98129f6e
+      internalID: -685018057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 78
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3018ba9564e1747b13a11e86cf0b40
+      internalID: 1359615865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 78
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9f380a2b2cf314a93f3351c08477ca
+      internalID: -553489233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 78
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8f6ba1b8f18744b7a9dd15d61f19f
+      internalID: 258670426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc548f90d6cb8bb46975b5dff4cc0eaf
+      internalID: -1121756173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 39
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e5fdd141c77224f83fcfd31e10918b
+      internalID: 1813533999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 39
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476e3ab35301e648b5ecf78245a5809
+      internalID: -487171620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 39
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22058bbd7ae0af24d92a6fd7dd1c3089
+      internalID: -392186167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 39
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db7df846bd4c547b2acf634b947ff3
+      internalID: 997188921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 39
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09006db59b12ca346bce04b872ac06de
+      internalID: -1863324384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a4f976ab29fd478d33e2a666e03bf
+      internalID: -1710884581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa4b1efdfdf7440b7c643a8e661267
+      internalID: 1224310525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff0fae3ca1276419874968777fdcc4
+      internalID: -30459387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4070fc79d48c4988792e81cebbe3c
+      internalID: 1202902670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9eb7e9b973bde43a9e0809a42a63cd
+      internalID: 1125616535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedZone_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c156f5891a88444982271dce6b97aa
+      internalID: 1733317802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc135a90589a39542913f576745f4daa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpeedZone_0: -2071601715
+      SpeedZone_1: -517976755
+      SpeedZone_10: -1335807526
+      SpeedZone_11: -46918824
+      SpeedZone_12: 2105293846
+      SpeedZone_13: -715291909
+      SpeedZone_14: 393877860
+      SpeedZone_15: 994114608
+      SpeedZone_16: 917398390
+      SpeedZone_17: 1123329201
+      SpeedZone_18: -1438140922
+      SpeedZone_19: 1111852472
+      SpeedZone_2: -141249119
+      SpeedZone_20: -685018057
+      SpeedZone_21: 1359615865
+      SpeedZone_22: -553489233
+      SpeedZone_23: 258670426
+      SpeedZone_24: -1121756173
+      SpeedZone_25: 1813533999
+      SpeedZone_26: -487171620
+      SpeedZone_27: -392186167
+      SpeedZone_28: 997188921
+      SpeedZone_29: -1863324384
+      SpeedZone_3: -895037892
+      SpeedZone_30: -1710884581
+      SpeedZone_31: 1224310525
+      SpeedZone_32: -30459387
+      SpeedZone_33: 1202902670
+      SpeedZone_34: 1125616535
+      SpeedZone_35: 1733317802
+      SpeedZone_4: 1425222980
+      SpeedZone_5: 1257330994
+      SpeedZone_6: -171605492
+      SpeedZone_7: 100855303
+      SpeedZone_8: 2042006203
+      SpeedZone_9: 799191643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

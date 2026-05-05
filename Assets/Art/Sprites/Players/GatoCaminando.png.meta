@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 8fe5fea8cc4047b40a111f8732d5273a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8649223210309393439
+    second: GatoCaminando_0
+  - first:
+      213: 1158786951284789003
+    second: GatoCaminando_1
+  - first:
+      213: -2479009370693747414
+    second: GatoCaminando_2
+  - first:
+      213: -1619036379603381512
+    second: GatoCaminando_3
+  - first:
+      213: 8233865638846376598
+    second: GatoCaminando_4
+  - first:
+      213: 434289451927347680
+    second: GatoCaminando_5
+  - first:
+      213: -1465850980263198071
+    second: GatoCaminando_6
+  - first:
+      213: -3998230168752336371
+    second: GatoCaminando_7
+  - first:
+      213: 7836888361396320215
+    second: GatoCaminando_8
+  - first:
+      213: 4170062726292829553
+    second: GatoCaminando_9
+  - first:
+      213: -3588410181674814504
+    second: GatoCaminando_10
+  - first:
+      213: 1874460870332245790
+    second: GatoCaminando_11
+  - first:
+      213: -2177748403435631052
+    second: GatoCaminando_12
+  - first:
+      213: -14245016378416013
+    second: GatoCaminando_13
+  - first:
+      213: 3556236854679428305
+    second: GatoCaminando_14
+  - first:
+      213: -1023158353362800217
+    second: GatoCaminando_15
+  - first:
+      213: -1023541704750760163
+    second: GatoCaminando_16
+  - first:
+      213: -3139672686892958205
+    second: GatoCaminando_17
+  - first:
+      213: -8312977315430294854
+    second: GatoCaminando_18
+  - first:
+      213: 3693332271596024663
+    second: GatoCaminando_19
+  - first:
+      213: 4707846755653893044
+    second: GatoCaminando_20
+  - first:
+      213: 3442915285603138623
+    second: GatoCaminando_21
+  - first:
+      213: -5481314577083119680
+    second: GatoCaminando_22
+  - first:
+      213: 5077828491219303325
+    second: GatoCaminando_23
+  - first:
+      213: -7472150915271427176
+    second: GatoCaminando_24
+  - first:
+      213: -5446509185297760208
+    second: GatoCaminando_25
+  - first:
+      213: -5711073483690314387
+    second: GatoCaminando_26
+  - first:
+      213: 137173950427964046
+    second: GatoCaminando_27
+  - first:
+      213: -6422552045743506064
+    second: GatoCaminando_28
+  - first:
+      213: 5880597597570016929
+    second: GatoCaminando_29
+  - first:
+      213: 1738729151947948996
+    second: GatoCaminando_30
+  - first:
+      213: -1823367296504131852
+    second: GatoCaminando_31
+  - first:
+      213: 1377632459850751150
+    second: GatoCaminando_32
+  - first:
+      213: 16508392456321944
+    second: GatoCaminando_33
+  - first:
+      213: -646738307696575235
+    second: GatoCaminando_34
+  - first:
+      213: 178878233358475751
+    second: GatoCaminando_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GatoCaminando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c1e892fa6380870800000000000000
+      internalID: 8649223210309393439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f00b9b796d41010800000000000000
+      internalID: 1158786951284789003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 350
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3fe89c1ac89dd0800000000000000
+      internalID: -2479009370693747414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 350
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25e43adf60889e0800000000000000
+      internalID: -1619036379603381512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 350
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aabb37c21944270800000000000000
+      internalID: 8233865638846376598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 350
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e124df94f7e60600800000000000000
+      internalID: 434289451927347680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98201c3cc4048abe0800000000000000
+      internalID: -1465850980263198071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 280
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02544558de6388c0800000000000000
+      internalID: -3998230168752336371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 280
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7bb6d617832cc60800000000000000
+      internalID: 7836888361396320215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 280
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f7c3a4f90fd930800000000000000
+      internalID: 4170062726292829553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3b0e4b3f7633ec0800000000000000
+      internalID: -3588410181674814504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17e581fa3c630a10800000000000000
+      internalID: 1874460870332245790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e8b038d5517c1e0800000000000000
+      internalID: -2177748403435631052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 210
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e1faab346dcff0800000000000000
+      internalID: -14245016378416013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 210
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcd15cd39a4a5130800000000000000
+      internalID: 3556236854679428305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 210
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a136d606e20dc1f0800000000000000
+      internalID: -1023158353362800217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 210
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f78831e36abc1f0800000000000000
+      internalID: -1023541704750760163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ebfb27354ad64d0800000000000000
+      internalID: -3139672686892958205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba95e7fc2f52ac80800000000000000
+      internalID: -8312977315430294854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 140
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b7f5022a514330800000000000000
+      internalID: 3693332271596024663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 140
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb9b75ea1a55140800000000000000
+      internalID: 4707846755653893044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 140
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c332ef531b7cf20800000000000000
+      internalID: 3442915285603138623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 140
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c74ac2fe657ee3b0800000000000000
+      internalID: -5481314577083119680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 140
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bfb79fb12187640800000000000000
+      internalID: 5077828491219303325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf22be4569d4890800000000000000
+      internalID: -7472150915271427176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030cc68b0cc1a64b0800000000000000
+      internalID: -5446509185297760208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d657c76dce03eb0b0800000000000000
+      internalID: -5711073483690314387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 70
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8222bb2bf657e100800000000000000
+      internalID: 137173950427964046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 70
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dfff941f28ed6a0800000000000000
+      internalID: -6422552045743506064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62d26bb541c9150800000000000000
+      internalID: 5880597597570016929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3497693f4312810800000000000000
+      internalID: 1738729151947948996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe8eccba1912b6e0800000000000000
+      internalID: -1823367296504131852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac93785c655e1310800000000000000
+      internalID: 1377632459850751150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bfb24ab46aa3000800000000000000
+      internalID: 16508392456321944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbb1b8fe25607f0800000000000000
+      internalID: -646738307696575235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCaminando_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a1653ec08b7200800000000000000
+      internalID: 178878233358475751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de4074de6404cea49840d241afe27a25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GatoCaminando_0: 8649223210309393439
+      GatoCaminando_1: 1158786951284789003
+      GatoCaminando_10: -3588410181674814504
+      GatoCaminando_11: 1874460870332245790
+      GatoCaminando_12: -2177748403435631052
+      GatoCaminando_13: -14245016378416013
+      GatoCaminando_14: 3556236854679428305
+      GatoCaminando_15: -1023158353362800217
+      GatoCaminando_16: -1023541704750760163
+      GatoCaminando_17: -3139672686892958205
+      GatoCaminando_18: -8312977315430294854
+      GatoCaminando_19: 3693332271596024663
+      GatoCaminando_2: -2479009370693747414
+      GatoCaminando_20: 4707846755653893044
+      GatoCaminando_21: 3442915285603138623
+      GatoCaminando_22: -5481314577083119680
+      GatoCaminando_23: 5077828491219303325
+      GatoCaminando_24: -7472150915271427176
+      GatoCaminando_25: -5446509185297760208
+      GatoCaminando_26: -5711073483690314387
+      GatoCaminando_27: 137173950427964046
+      GatoCaminando_28: -6422552045743506064
+      GatoCaminando_29: 5880597597570016929
+      GatoCaminando_3: -1619036379603381512
+      GatoCaminando_30: 1738729151947948996
+      GatoCaminando_31: -1823367296504131852
+      GatoCaminando_32: 1377632459850751150
+      GatoCaminando_33: 16508392456321944
+      GatoCaminando_34: -646738307696575235
+      GatoCaminando_35: 178878233358475751
+      GatoCaminando_4: 8233865638846376598
+      GatoCaminando_5: 434289451927347680
+      GatoCaminando_6: -1465850980263198071
+      GatoCaminando_7: -3998230168752336371
+      GatoCaminando_8: 7836888361396320215
+      GatoCaminando_9: 4170062726292829553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

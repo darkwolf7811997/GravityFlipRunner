@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|c:\\users\\jaime\\onedrive\\documentos\\unity\\projects\\gravity flip runner\\assets\\scripts\\systems\\scenariosegmentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\scenariosegmentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScenarioSegmentVisual.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T00:16:51.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

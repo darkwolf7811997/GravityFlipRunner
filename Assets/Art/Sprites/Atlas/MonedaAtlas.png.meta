@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 40e2f8e3ddd02ca41b456b3f9ebeaef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3262730359565012371
+    second: MonedaAtlas_0
+  - first:
+      213: -7597585953399483287
+    second: MonedaAtlas_1
+  - first:
+      213: 7607348528810246740
+    second: MonedaAtlas_2
+  - first:
+      213: -8177464696709581443
+    second: MonedaAtlas_3
+  - first:
+      213: -1555512462320906292
+    second: MonedaAtlas_4
+  - first:
+      213: 41039256278929140
+    second: MonedaAtlas_5
+  - first:
+      213: 1268017331878594729
+    second: MonedaAtlas_6
+  - first:
+      213: -2439148849595140370
+    second: MonedaAtlas_7
+  - first:
+      213: -24349318172879174
+    second: MonedaAtlas_8
+  - first:
+      213: -7182905867814326636
+    second: MonedaAtlas_9
+  - first:
+      213: 6474673001379388081
+    second: MonedaAtlas_10
+  - first:
+      213: 3789516892334699294
+    second: MonedaAtlas_11
+  - first:
+      213: -2164981853680120352
+    second: MonedaAtlas_12
+  - first:
+      213: 3376570081701806184
+    second: MonedaAtlas_13
+  - first:
+      213: 4278940921706922188
+    second: MonedaAtlas_14
+  - first:
+      213: -7368806082227897619
+    second: MonedaAtlas_15
+  - first:
+      213: 462951983428363968
+    second: MonedaAtlas_16
+  - first:
+      213: -5560824382706401466
+    second: MonedaAtlas_17
+  - first:
+      213: -2588137956693485869
+    second: MonedaAtlas_18
+  - first:
+      213: -8672732532883120750
+    second: MonedaAtlas_19
+  - first:
+      213: -526430682750342631
+    second: MonedaAtlas_20
+  - first:
+      213: -4033274840805249082
+    second: MonedaAtlas_21
+  - first:
+      213: 3804803026504561221
+    second: MonedaAtlas_22
+  - first:
+      213: 5813256463134472083
+    second: MonedaAtlas_23
+  - first:
+      213: 7430132757774346577
+    second: MonedaAtlas_24
+  - first:
+      213: -3430370677525602142
+    second: MonedaAtlas_25
+  - first:
+      213: -4709458536986486806
+    second: MonedaAtlas_26
+  - first:
+      213: 1837330195712742494
+    second: MonedaAtlas_27
+  - first:
+      213: 525366992458623744
+    second: MonedaAtlas_28
+  - first:
+      213: 7651263599666915775
+    second: MonedaAtlas_29
+  - first:
+      213: 3869002131253270483
+    second: MonedaAtlas_30
+  - first:
+      213: 1144899868029589828
+    second: MonedaAtlas_31
+  - first:
+      213: 5971381110383222732
+    second: MonedaAtlas_32
+  - first:
+      213: -1395315665087220431
+    second: MonedaAtlas_33
+  - first:
+      213: 2048693335725676202
+    second: MonedaAtlas_34
+  - first:
+      213: -2021636285339057893
+    second: MonedaAtlas_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonedaAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62be30560478b2d0800000000000000
+      internalID: -3262730359565012371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964502144d3ff8690800000000000000
+      internalID: -7597585953399483287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 347
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45243567e2bb29960800000000000000
+      internalID: 7607348528810246740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 347
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f3553f2fc38e80800000000000000
+      internalID: -8177464696709581443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 347
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf4baf28a5b96ae0800000000000000
+      internalID: -1555512462320906292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 347
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0a547cfcc19000800000000000000
+      internalID: 41039256278929140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 278
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a889ab8b07e89110800000000000000
+      internalID: 1268017331878594729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee634916b07662ed0800000000000000
+      internalID: -2439148849595140370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 278
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab658c39c6e79aff0800000000000000
+      internalID: -24349318172879174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 278
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eabdd7b21315c90800000000000000
+      internalID: -7182905867814326636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 278
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad70c5ac8aad950800000000000000
+      internalID: 6474673001379388081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13b3fd2981179430800000000000000
+      internalID: 3789516892334699294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 209
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edca32897074f1e0800000000000000
+      internalID: -2164981853680120352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 209
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604c07799cfbde20800000000000000
+      internalID: 3376570081701806184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 209
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc04935f81ad16b30800000000000000
+      internalID: 4278940921706922188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 209
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea711ae8edbcb990800000000000000
+      internalID: -7368806082227897619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 209
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c66f48406cbc6600800000000000000
+      internalID: 462951983428363968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 209
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f347abfabf3d2b0800000000000000
+      internalID: -5560824382706401466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 140
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6549dad36151cd0800000000000000
+      internalID: -2588137956693485869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 140
+        width: 15
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d178126b344a780800000000000000
+      internalID: -8672732532883120750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 140
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aaccb451eb1b8f0800000000000000
+      internalID: -526430682750342631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf6848c6ede608c0800000000000000
+      internalID: -4033274840805249082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 140
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b223a1306dc430800000000000000
+      internalID: 3804803026504561221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 140
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397bf5904f5dca050800000000000000
+      internalID: 5813256463134472083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159222d60622d1760800000000000000
+      internalID: 7430132757774346577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 71
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0ab2e2b00e460d0800000000000000
+      internalID: -3430370677525602142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 71
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae75d729964a4aeb0800000000000000
+      internalID: -4709458536986486806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 71
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e549e8214128f7910800000000000000
+      internalID: 1837330195712742494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 71
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b26320f7a7a4700800000000000000
+      internalID: 525366992458623744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e50da4bfbe2a60800000000000000
+      internalID: 7651263599666915775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7949480f471b530800000000000000
+      internalID: 3869002131253270483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499b413d5083ef00800000000000000
+      internalID: 1144899868029589828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf9ede6b7b9ed250800000000000000
+      internalID: 5971381110383222732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13530f89bc7d2ace0800000000000000
+      internalID: -1395315665087220431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa693a10cbb6e6c10800000000000000
+      internalID: 2048693335725676202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonedaAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1143537284b1f3e0800000000000000
+      internalID: -2021636285339057893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f81d6d16fec24424281d36c79ab12076
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MonedaAtlas_0: -3262730359565012371
+      MonedaAtlas_1: -7597585953399483287
+      MonedaAtlas_10: 6474673001379388081
+      MonedaAtlas_11: 3789516892334699294
+      MonedaAtlas_12: -2164981853680120352
+      MonedaAtlas_13: 3376570081701806184
+      MonedaAtlas_14: 4278940921706922188
+      MonedaAtlas_15: -7368806082227897619
+      MonedaAtlas_16: 462951983428363968
+      MonedaAtlas_17: -5560824382706401466
+      MonedaAtlas_18: -2588137956693485869
+      MonedaAtlas_19: -8672732532883120750
+      MonedaAtlas_2: 7607348528810246740
+      MonedaAtlas_20: -526430682750342631
+      MonedaAtlas_21: -4033274840805249082
+      MonedaAtlas_22: 3804803026504561221
+      MonedaAtlas_23: 5813256463134472083
+      MonedaAtlas_24: 7430132757774346577
+      MonedaAtlas_25: -3430370677525602142
+      MonedaAtlas_26: -4709458536986486806
+      MonedaAtlas_27: 1837330195712742494
+      MonedaAtlas_28: 525366992458623744
+      MonedaAtlas_29: 7651263599666915775
+      MonedaAtlas_3: -8177464696709581443
+      MonedaAtlas_30: 3869002131253270483
+      MonedaAtlas_31: 1144899868029589828
+      MonedaAtlas_32: 5971381110383222732
+      MonedaAtlas_33: -1395315665087220431
+      MonedaAtlas_34: 2048693335725676202
+      MonedaAtlas_35: -2021636285339057893
+      MonedaAtlas_4: -1555512462320906292
+      MonedaAtlas_5: 41039256278929140
+      MonedaAtlas_6: 1268017331878594729
+      MonedaAtlas_7: -2439148849595140370
+      MonedaAtlas_8: -24349318172879174
+      MonedaAtlas_9: -7182905867814326636
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

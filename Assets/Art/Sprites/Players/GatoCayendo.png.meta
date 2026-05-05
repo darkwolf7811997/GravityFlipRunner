@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: 6ddd076f787023743a3ab0418c828224
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2549584683562772665
+    second: GatoCayendo_0
+  - first:
+      213: -6417155676271765707
+    second: GatoCayendo_1
+  - first:
+      213: -4127628754049780650
+    second: GatoCayendo_2
+  - first:
+      213: -2302338837546591993
+    second: GatoCayendo_3
+  - first:
+      213: -6853354401541058055
+    second: GatoCayendo_4
+  - first:
+      213: -1609900683184922603
+    second: GatoCayendo_5
+  - first:
+      213: 7530069036442994590
+    second: GatoCayendo_6
+  - first:
+      213: -5621249080944620619
+    second: GatoCayendo_7
+  - first:
+      213: 2388425213673223162
+    second: GatoCayendo_8
+  - first:
+      213: -421605946998251226
+    second: GatoCayendo_9
+  - first:
+      213: 3662037912051211478
+    second: GatoCayendo_10
+  - first:
+      213: -2753192658939281851
+    second: GatoCayendo_11
+  - first:
+      213: 3796754310936570760
+    second: GatoCayendo_12
+  - first:
+      213: 2507770931766414981
+    second: GatoCayendo_13
+  - first:
+      213: -7860235359647333377
+    second: GatoCayendo_14
+  - first:
+      213: -2899532944713894748
+    second: GatoCayendo_15
+  - first:
+      213: 5518502549814211995
+    second: GatoCayendo_16
+  - first:
+      213: -8565077148920706475
+    second: GatoCayendo_17
+  - first:
+      213: 4250584587792865406
+    second: GatoCayendo_18
+  - first:
+      213: -7928863019852320469
+    second: GatoCayendo_19
+  - first:
+      213: 4121568087783016951
+    second: GatoCayendo_20
+  - first:
+      213: -1906877948037126247
+    second: GatoCayendo_21
+  - first:
+      213: -5309559323222066507
+    second: GatoCayendo_22
+  - first:
+      213: 1695348086023726419
+    second: GatoCayendo_23
+  - first:
+      213: -8019327111041664306
+    second: GatoCayendo_24
+  - first:
+      213: -6269110209360652453
+    second: GatoCayendo_25
+  - first:
+      213: 7622358224427849392
+    second: GatoCayendo_26
+  - first:
+      213: 213892408024174938
+    second: GatoCayendo_27
+  - first:
+      213: -89307871305045529
+    second: GatoCayendo_28
+  - first:
+      213: -5416827277120142549
+    second: GatoCayendo_29
+  - first:
+      213: 8190918228909993896
+    second: GatoCayendo_30
+  - first:
+      213: -5424895664145384264
+    second: GatoCayendo_31
+  - first:
+      213: 1103538321551552281
+    second: GatoCayendo_32
+  - first:
+      213: -7592465031753319295
+    second: GatoCayendo_33
+  - first:
+      213: 4556984560505542462
+    second: GatoCayendo_34
+  - first:
+      213: 938412865067323299
+    second: GatoCayendo_35
+  - first:
+      213: -2939445944882849531
+    second: GatoCayendo_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GatoCayendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8298ce2c1f16320800000000000000
+      internalID: 2549584683562772665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 355
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537907779eea1f6a0800000000000000
+      internalID: -6417155676271765707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 355
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654bc2e6487b7b6c0800000000000000
+      internalID: -4127628754049780650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709137b86037c00e0800000000000000
+      internalID: -2302338837546591993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 355
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f119408b7ef3e0a0800000000000000
+      internalID: -6853354401541058055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 355
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510aa17bbdb78a9e0800000000000000
+      internalID: -1609900683184922603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e974a5384ed208860800000000000000
+      internalID: 7530069036442994590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 284
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0e485ebf4df1b0800000000000000
+      internalID: -5621249080944620619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 284
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af33491d314652120800000000000000
+      internalID: 2388425213673223162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 284
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6212afdff97262af0800000000000000
+      internalID: -421605946998251226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 284
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc53d5241c22d230800000000000000
+      internalID: 3662037912051211478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 284
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ef5bd1dd1bac9d0800000000000000
+      internalID: -2753192658939281851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88baec20ee7c0b430800000000000000
+      internalID: 3796754310936570760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 213
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eccfd20646dc220800000000000000
+      internalID: 2507770931766414981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38141f595dae290800000000000000
+      internalID: -7860235359647333377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 213
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a439cf262ac2c7d0800000000000000
+      internalID: -2899532944713894748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 213
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9573cda4d8a59c40800000000000000
+      internalID: 5518502549814211995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 213
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a04c876bbb22980800000000000000
+      internalID: -8565077148920706475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d42b792c1dfa30800000000000000
+      internalID: 4250584587792865406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 142
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b8f4a71507f190800000000000000
+      internalID: -7928863019852320469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f984edb650c23930800000000000000
+      internalID: 4121568087783016951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 142
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a83dfb986985e0800000000000000
+      internalID: -1906877948037126247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 142
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba3c714de7a056b0800000000000000
+      internalID: -5309559323222066507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 142
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35525161a16178710800000000000000
+      internalID: 1695348086023726419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecab3b01b70a5b090800000000000000
+      internalID: -8019327111041664306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b579841da75aff8a0800000000000000
+      internalID: -6269110209360652453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 71
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b69ccd8b6e08c960800000000000000
+      internalID: 7622358224427849392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 71
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a511f680306e7f200800000000000000
+      internalID: 213892408024174938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 71
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e96737d6f6b2cef0800000000000000
+      internalID: -89307871305045529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 71
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238b918a4093d4b0800000000000000
+      internalID: -5416827277120142549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa37a5bbcfba170800000000000000
+      internalID: 8190918228909993896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcbe03c226e6b4b0800000000000000
+      internalID: -5424895664145384264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f6c14b14e805f00800000000000000
+      internalID: 1103538321551552281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cb4ccb74522a690800000000000000
+      internalID: -7592465031753319295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e375fd75059ad3f30800000000000000
+      internalID: 4556984560505542462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatoCayendo_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af8ef26789e50d00800000000000000
+      internalID: 938412865067323299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17bdbcb3f2992bc47909a598a3b66af6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GatoCayendo_0: 2549584683562772665
+      GatoCayendo_1: -6417155676271765707
+      GatoCayendo_10: 3662037912051211478
+      GatoCayendo_11: -2753192658939281851
+      GatoCayendo_12: 3796754310936570760
+      GatoCayendo_13: 2507770931766414981
+      GatoCayendo_14: -7860235359647333377
+      GatoCayendo_15: -2899532944713894748
+      GatoCayendo_16: 5518502549814211995
+      GatoCayendo_17: -8565077148920706475
+      GatoCayendo_18: 4250584587792865406
+      GatoCayendo_19: -7928863019852320469
+      GatoCayendo_2: -4127628754049780650
+      GatoCayendo_20: 4121568087783016951
+      GatoCayendo_21: -1906877948037126247
+      GatoCayendo_22: -5309559323222066507
+      GatoCayendo_23: 1695348086023726419
+      GatoCayendo_24: -8019327111041664306
+      GatoCayendo_25: -6269110209360652453
+      GatoCayendo_26: 7622358224427849392
+      GatoCayendo_27: 213892408024174938
+      GatoCayendo_28: -89307871305045529
+      GatoCayendo_29: -5416827277120142549
+      GatoCayendo_3: -2302338837546591993
+      GatoCayendo_30: 8190918228909993896
+      GatoCayendo_31: -5424895664145384264
+      GatoCayendo_32: 1103538321551552281
+      GatoCayendo_33: -7592465031753319295
+      GatoCayendo_34: 4556984560505542462
+      GatoCayendo_35: 938412865067323299
+      GatoCayendo_4: -6853354401541058055
+      GatoCayendo_5: -1609900683184922603
+      GatoCayendo_6: 7530069036442994590
+      GatoCayendo_7: -5621249080944620619
+      GatoCayendo_8: 2388425213673223162
+      GatoCayendo_9: -421605946998251226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,16 +1,45 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static GameManager Instance;
+
+    [Header("UI")]
+    [SerializeField] private GameOverManager gameOverManager;
+
+    private bool gameOver = false;
+
+    private void Awake()
     {
-        
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void GameOver()
     {
-        
+        if (gameOver) return;
+
+        gameOver = true;
+
+        if (gameOverManager != null)
+        {
+            gameOverManager.ShowGameOver();
+        }
+
+        Time.timeScale = 0f;
+        Debug.Log("Game Over");
+    }
+
+    public void RestartGame()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: d38e83e4c91146f46ba3938ec167e34a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 154525232820917555
+    second: EscudoAtlas_0
+  - first:
+      213: 3203199294935546490
+    second: EscudoAtlas_1
+  - first:
+      213: 7129559184605626413
+    second: EscudoAtlas_2
+  - first:
+      213: 9083990155500810937
+    second: EscudoAtlas_3
+  - first:
+      213: 7055892382402402223
+    second: EscudoAtlas_4
+  - first:
+      213: -6193309737974336723
+    second: EscudoAtlas_5
+  - first:
+      213: -3213304460782922363
+    second: EscudoAtlas_6
+  - first:
+      213: -1914831091240298184
+    second: EscudoAtlas_7
+  - first:
+      213: -3028855357682955905
+    second: EscudoAtlas_8
+  - first:
+      213: -1099620392848434094
+    second: EscudoAtlas_9
+  - first:
+      213: 2691254565967481435
+    second: EscudoAtlas_10
+  - first:
+      213: 8399332731021753534
+    second: EscudoAtlas_11
+  - first:
+      213: -3059162782390279632
+    second: EscudoAtlas_12
+  - first:
+      213: -8056727753673564241
+    second: EscudoAtlas_13
+  - first:
+      213: -7765231051258599035
+    second: EscudoAtlas_14
+  - first:
+      213: 493985220413642758
+    second: EscudoAtlas_15
+  - first:
+      213: -6618024923277228944
+    second: EscudoAtlas_16
+  - first:
+      213: 946772960795587574
+    second: EscudoAtlas_17
+  - first:
+      213: -1678441965158440419
+    second: EscudoAtlas_18
+  - first:
+      213: 5449067057031956471
+    second: EscudoAtlas_19
+  - first:
+      213: 5368816703726528848
+    second: EscudoAtlas_20
+  - first:
+      213: -4251680178776747083
+    second: EscudoAtlas_21
+  - first:
+      213: -8885654257752762028
+    second: EscudoAtlas_22
+  - first:
+      213: -3371305558686397468
+    second: EscudoAtlas_23
+  - first:
+      213: -5258396078587456591
+    second: EscudoAtlas_24
+  - first:
+      213: 7861469655277129041
+    second: EscudoAtlas_25
+  - first:
+      213: -2124308924219473879
+    second: EscudoAtlas_26
+  - first:
+      213: 6757503959387525600
+    second: EscudoAtlas_27
+  - first:
+      213: 6171923720116868241
+    second: EscudoAtlas_28
+  - first:
+      213: 4597885414190077110
+    second: EscudoAtlas_29
+  - first:
+      213: -1083863218929876705
+    second: EscudoAtlas_30
+  - first:
+      213: 3622023339335458317
+    second: EscudoAtlas_31
+  - first:
+      213: 2816560698994043105
+    second: EscudoAtlas_32
+  - first:
+      213: -8339363819141075223
+    second: EscudoAtlas_33
+  - first:
+      213: -2716689284897763838
+    second: EscudoAtlas_34
+  - first:
+      213: -3071307492861076276
+    second: EscudoAtlas_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EscudoAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335102b61ebf42200800000000000000
+      internalID: 154525232820917555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 342
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a3a6799cc047c20800000000000000
+      internalID: 3203199294935546490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 342
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ca8bed4841f260800000000000000
+      internalID: 7129559184605626413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 342
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b275c9dae0d01e70800000000000000
+      internalID: 9083990155500810937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 342
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7da72fcb09be160800000000000000
+      internalID: 7055892382402402223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 342
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23721c5b91fc0aa0800000000000000
+      internalID: -6193309737974336723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5851bd32e9c0863d0800000000000000
+      internalID: -3213304460782922363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 274
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8399fb984472d65e0800000000000000
+      internalID: -1914831091240298184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 274
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c449891857f5d0800000000000000
+      internalID: -3028855357682955905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 274
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c5e78241d5db0f0800000000000000
+      internalID: -1099620392848434094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 274
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac3a4d4c1495520800000000000000
+      internalID: 2691254565967481435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 274
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcfcd60e9c609470800000000000000
+      internalID: 8399332731021753534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032288558abab85d0800000000000000
+      internalID: -3059162782390279632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 206
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf914e5bc0c03090800000000000000
+      internalID: -8056727753673564241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 206
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e5e6308b5c3490800000000000000
+      internalID: -7765231051258599035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 206
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6085c03d0fcfad600800000000000000
+      internalID: 493985220413642758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 206
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0740165656d0824a0800000000000000
+      internalID: -6618024923277228944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 206
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37a2bddfc932d00800000000000000
+      internalID: 946772960795587574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d126f9aece9f4b8e0800000000000000
+      internalID: -1678441965158440419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 138
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74ca33e99fe9b40800000000000000
+      internalID: 5449067057031956471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059adc9c85ed18a40800000000000000
+      internalID: 5368816703726528848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 138
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3517d576ffef4c0800000000000000
+      internalID: -4251680178776747083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 138
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45995b1e780dfa480800000000000000
+      internalID: -8885654257752762028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 138
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb8231d477b631d0800000000000000
+      internalID: -3371305558686397468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3dc7f60ac6607b0800000000000000
+      internalID: -5258396078587456591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 70
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d4e47effc891d60800000000000000
+      internalID: 7861469655277129041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 70
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920c4bad940f482e0800000000000000
+      internalID: -2124308924219473879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 70
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d69b5c0a77cd50800000000000000
+      internalID: 6757503959387525600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949f565ce317a550800000000000000
+      internalID: 6171923720116868241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 70
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4dfbe6c68fecf30800000000000000
+      internalID: 4597885414190077110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c29a152855f0f0800000000000000
+      internalID: -1083863218929876705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e934d6903044230800000000000000
+      internalID: 3622023339335458317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8addf680f661720800000000000000
+      internalID: 2816560698994043105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eee9535ac0a44c80800000000000000
+      internalID: -8339363819141075223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0f803d716c4ad0800000000000000
+      internalID: -2716689284897763838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscudoAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc15049b168065d0800000000000000
+      internalID: -3071307492861076276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a8b62daf887e2b40aecbacb20cf7282
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EscudoAtlas_0: 154525232820917555
+      EscudoAtlas_1: 3203199294935546490
+      EscudoAtlas_10: 2691254565967481435
+      EscudoAtlas_11: 8399332731021753534
+      EscudoAtlas_12: -3059162782390279632
+      EscudoAtlas_13: -8056727753673564241
+      EscudoAtlas_14: -7765231051258599035
+      EscudoAtlas_15: 493985220413642758
+      EscudoAtlas_16: -6618024923277228944
+      EscudoAtlas_17: 946772960795587574
+      EscudoAtlas_18: -1678441965158440419
+      EscudoAtlas_19: 5449067057031956471
+      EscudoAtlas_2: 7129559184605626413
+      EscudoAtlas_20: 5368816703726528848
+      EscudoAtlas_21: -4251680178776747083
+      EscudoAtlas_22: -8885654257752762028
+      EscudoAtlas_23: -3371305558686397468
+      EscudoAtlas_24: -5258396078587456591
+      EscudoAtlas_25: 7861469655277129041
+      EscudoAtlas_26: -2124308924219473879
+      EscudoAtlas_27: 6757503959387525600
+      EscudoAtlas_28: 6171923720116868241
+      EscudoAtlas_29: 4597885414190077110
+      EscudoAtlas_3: 9083990155500810937
+      EscudoAtlas_30: -1083863218929876705
+      EscudoAtlas_31: 3622023339335458317
+      EscudoAtlas_32: 2816560698994043105
+      EscudoAtlas_33: -8339363819141075223
+      EscudoAtlas_34: -2716689284897763838
+      EscudoAtlas_35: -3071307492861076276
+      EscudoAtlas_4: 7055892382402402223
+      EscudoAtlas_5: -6193309737974336723
+      EscudoAtlas_6: -3213304460782922363
+      EscudoAtlas_7: -1914831091240298184
+      EscudoAtlas_8: -3028855357682955905
+      EscudoAtlas_9: -1099620392848434094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
