@@ -36,6 +36,9 @@ public class PlayerController : MonoBehaviour
     private bool isGrounded;
     private bool gravityInverted = false;
 
+    private bool isVehicleMode;
+    private float vehicleSpeed;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -66,17 +69,10 @@ public class PlayerController : MonoBehaviour
     {
         bool inputPressed = false;
 
-        // NOTA:
-        // Esta es la parte donde detectamos el click/toque del jugador.
-        // Antes de hacer FlipGravity(), revisamos si el click fue sobre UI.
-        // Si fue sobre UI, salimos con return para que NO cambie la gravedad.
-
         if (Input.GetMouseButtonDown(0))
         {
             if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject())
-            {
                 return;
-            }
 
             inputPressed = true;
         }
@@ -84,12 +80,13 @@ public class PlayerController : MonoBehaviour
         if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
         {
             if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject(Input.GetTouch(0).fingerId))
-            {
                 return;
-            }
 
             inputPressed = true;
         }
+
+        if (isVehicleMode)
+            return;
 
         if (inputPressed && isGrounded)
         {
@@ -127,17 +124,12 @@ public class PlayerController : MonoBehaviour
         }
 
         Bounds bounds = playerCollider.bounds;
-
         Vector2 checkPosition;
 
         if (!gravityInverted)
-        {
             checkPosition = new Vector2(bounds.center.x, bounds.min.y - checkOffset);
-        }
         else
-        {
             checkPosition = new Vector2(bounds.center.x, bounds.max.y + checkOffset);
-        }
 
         isGrounded = Physics2D.OverlapCircle(checkPosition, checkRadius, groundLayer);
     }
@@ -153,7 +145,65 @@ public class PlayerController : MonoBehaviour
     private void Die()
     {
         Debug.Log("Player murió");
-        // Aquí después conectaremos GameManager / muerte / restart
+    }
+
+    private void UpdateProgressiveSpeed()
+    {
+        if (isVehicleMode)
+        {
+            moveSpeed = vehicleSpeed;
+            return;
+        }
+
+        float distanceTravelled = transform.position.x - startX;
+
+        int increases = Mathf.FloorToInt(distanceTravelled / speedIncreaseEveryMeters);
+        float progressiveSpeed = baseMoveSpeed + (increases * speedIncreaseAmount);
+        float finalSpeed = progressiveSpeed + zoneSpeedModifier;
+
+        moveSpeed = Mathf.Clamp(finalSpeed, baseMoveSpeed, maxMoveSpeed);
+    }
+
+    public void AddZoneSpeedModifier(float amount)
+    {
+        zoneSpeedModifier += amount;
+        zoneSpeedModifier = Mathf.Clamp(zoneSpeedModifier, minZoneSpeedModifier, maxZoneSpeedModifier);
+    }
+
+    public void SetVehicleMode(bool active, float speed)
+    {
+        isVehicleMode = active;
+        vehicleSpeed = speed;
+    }
+
+    public bool IsVehicleMode()
+    {
+        return isVehicleMode;
+    }
+
+    public void ForceNormalGravity()
+    {
+        gravityInverted = false;
+        ApplyGravityState();
+    }
+
+    public float GetMoveSpeed()
+    {
+        return moveSpeed;
+    }
+
+    public void SetSpeedAfterVehicle(float targetSpeed)
+    {
+        targetSpeed = Mathf.Clamp(targetSpeed, baseMoveSpeed, maxMoveSpeed);
+
+        moveSpeed = targetSpeed;
+
+        // Reinicia la progresión desde esta nueva velocidad.
+        startX = transform.position.x;
+        baseMoveSpeed = targetSpeed;
+
+        // Limpia modificadores para evitar valores raros acumulados.
+        zoneSpeedModifier = 0f;
     }
 
     private void OnDrawGizmosSelected()
@@ -164,41 +214,19 @@ public class PlayerController : MonoBehaviour
         Bounds bounds = col.bounds;
         Vector2 checkPosition;
 
-        bool invertedPreview = false;
-
-        if (Application.isPlaying)
-        {
-            invertedPreview = gravityInverted;
-        }
+        bool invertedPreview = Application.isPlaying && gravityInverted;
 
         if (!invertedPreview)
-        {
             checkPosition = new Vector2(bounds.center.x, bounds.min.y - checkOffset);
-        }
         else
-        {
             checkPosition = new Vector2(bounds.center.x, bounds.max.y + checkOffset);
-        }
 
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(checkPosition, checkRadius);
     }
 
-    private void UpdateProgressiveSpeed()
+    public bool IsGravityInverted()
     {
-        float distanceTravelled = transform.position.x - startX;
-
-        int increases = Mathf.FloorToInt(distanceTravelled / speedIncreaseEveryMeters);
-        float progressiveSpeed = baseMoveSpeed + (increases * speedIncreaseAmount);
-
-        float finalSpeed = progressiveSpeed + zoneSpeedModifier;
-
-        moveSpeed = Mathf.Clamp(finalSpeed, baseMoveSpeed, maxMoveSpeed);
-    }
-
-    public void AddZoneSpeedModifier(float amount)
-    {
-        zoneSpeedModifier += amount;
-        zoneSpeedModifier = Mathf.Clamp(zoneSpeedModifier, minZoneSpeedModifier, maxZoneSpeedModifier);
+        return gravityInverted;
     }
 }

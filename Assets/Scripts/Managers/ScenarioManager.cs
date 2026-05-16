@@ -9,7 +9,7 @@ public class ScenarioManager : MonoBehaviour
         public string scenarioName;
         public Sprite groundSprite;
         public Sprite ceilingSprite;
-        public Sprite backgroundSprite;
+        public Sprite[] backgroundSprites;
     }
 
     [Header("Escenario inicial")]

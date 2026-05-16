@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|c:\\users\\jaime\\onedrive\\documentos\\unity\\projects\\gravity flip runner\\assets\\scripts\\systems\\scenariosegmentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|c:\\users\\jaime\\onedrive\\documentos\\unity\\projects\\gravity flip runner\\assets\\scripts\\ui\\distancescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\distancescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|c:\\users\\jaime\\onedrive\\documentos\\unity\\projects\\gravity flip runner\\assets\\scripts\\systems\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|c:\\users\\jaime\\onedrive\\documentos\\unity\\projects\\gravity flip runner\\assets\\scripts\\ui\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|c:\\users\\jaime\\onedrive\\documentos\\unity\\projects\\gravity flip runner\\assets\\scripts\\systems\\vehiclepowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\vehiclepowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\systems\\shieldpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\shieldpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\systems\\vehiclepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\vehiclepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\systems\\generalspawndirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\generalspawndirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\systems\\loopingscenariosegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\loopingscenariosegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\systems\\scenariosegmentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\scenariosegmentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\assets\\scripts\\managers\\scenariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CE443-50BD-CE08-6A56-9610EBB0642D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\scenariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +63,150 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DistanceScore.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\UI\\DistanceScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DistanceScore.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\UI\\DistanceScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DistanceScore.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T19:13:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\UI\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\UI\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:57:28.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CoinManager.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CoinManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:54:32.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiclePowerController.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\VehiclePowerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\VehiclePowerController.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\VehiclePowerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\VehiclePowerController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:10:48.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShieldPickup.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\ShieldPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\ShieldPickup.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\ShieldPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\ShieldPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:49:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:16:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiclePickup.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\VehiclePickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\VehiclePickup.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\VehiclePickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\VehiclePickup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T21:04:29.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneralSpawnDirector.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\GeneralSpawnDirector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GeneralSpawnDirector.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\GeneralSpawnDirector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\GeneralSpawnDirector.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAiwCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T20:41:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAIwOUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:59:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoopingScenarioSegment.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\LoopingScenarioSegment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\LoopingScenarioSegment.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\LoopingScenarioSegment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\LoopingScenarioSegment.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:17:02.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScenarioManager.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Managers\\ScenarioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ScenarioManager.cs",
+              "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Managers\\ScenarioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ScenarioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:12:27.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ScenarioSegmentVisual.cs",
               "DocumentMoniker": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
               "ToolTip": "C:\\Users\\jaime\\OneDrive\\Documentos\\Unity\\Projects\\Gravity Flip Runner\\Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
               "RelativeToolTip": "Assets\\Scripts\\Systems\\ScenarioSegmentVisual.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T00:16:51.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T00:16:51.751Z"
             }
           ]
         }

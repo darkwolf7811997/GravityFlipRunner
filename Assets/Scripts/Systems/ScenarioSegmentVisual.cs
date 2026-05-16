@@ -11,27 +11,33 @@ public class ScenarioSegmentVisual : MonoBehaviour
     [SerializeField] private float backgroundWidth = 30f;
     [SerializeField] private float backgroundHeight = 7f;
 
-    public void Setup(Sprite backgroundSprite, Sprite groundSprite, Sprite ceilingSprite)
+    public void Setup(ScenarioManager.Scenario scenario, int segmentIndex)
     {
-        if (backgroundRenderers != null)
-        {
-            for (int i = 0; i < backgroundRenderers.Length; i++)
-            {
-                if (backgroundRenderers[i] == null) continue;
+        if (scenario == null) return;
 
-                backgroundRenderers[i].sprite = backgroundSprite;
-                FitSpriteToSize(backgroundRenderers[i], backgroundWidth, backgroundHeight);
-            }
-        }
+        ApplyBackgrounds(scenario.backgroundSprites, segmentIndex);
 
         if (groundRenderer != null)
-        {
-            groundRenderer.sprite = groundSprite;
-        }
+            groundRenderer.sprite = scenario.groundSprite;
 
         if (ceilingRenderer != null)
+            ceilingRenderer.sprite = scenario.ceilingSprite;
+    }
+
+    private void ApplyBackgrounds(Sprite[] sprites, int segmentIndex)
+    {
+        if (backgroundRenderers == null || backgroundRenderers.Length == 0) return;
+        if (sprites == null || sprites.Length == 0) return;
+
+        for (int i = 0; i < backgroundRenderers.Length; i++)
         {
-            ceilingRenderer.sprite = ceilingSprite;
+            if (backgroundRenderers[i] == null) continue;
+
+            int spriteIndex = (segmentIndex * backgroundRenderers.Length + i) % sprites.Length;
+
+            backgroundRenderers[i].sprite = sprites[spriteIndex];
+
+            FitSpriteToSize(backgroundRenderers[i], backgroundWidth, backgroundHeight);
         }
     }
 

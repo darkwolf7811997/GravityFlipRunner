@@ -53,6 +53,8 @@ public class PlayerHealth : MonoBehaviour
     {
         if (!estaVivo || esInvulnerable) return;
 
+        if (externalInvulnerable) return;
+
         if (tieneEscudo)
         {
             PerderEscudo();
@@ -153,5 +155,55 @@ public class PlayerHealth : MonoBehaviour
         yield return new WaitForSeconds(1f); // ajustable
 
         GameManager.Instance.GameOver();
+    }
+
+
+    //PARA QUE NO MUERA CON OBSTACULOS
+    private bool externalInvulnerable;
+
+    public void SetExternalInvulnerable(bool value)
+    {
+        externalInvulnerable = value;
+    }
+
+    public void ActivateInvulnerability(float duration)
+    {
+        StartCoroutine(InvulnerabilidadTemporal(duration));
+    }
+
+    private IEnumerator InvulnerabilidadTemporal(float duration)
+    {
+        esInvulnerable = true;
+
+        if (playerLayer != -1 && obstacleLayer != -1)
+        {
+            Physics2D.IgnoreLayerCollision(playerLayer, obstacleLayer, true);
+        }
+
+        float tiempoParpadeo = 0.1f;
+        float tiempoTranscurrido = 0f;
+
+        while (tiempoTranscurrido < duration)
+        {
+            if (sr != null)
+            {
+                sr.enabled = !sr.enabled;
+            }
+
+            yield return new WaitForSeconds(tiempoParpadeo);
+            tiempoTranscurrido += tiempoParpadeo;
+        }
+
+        if (sr != null)
+        {
+            sr.enabled = true;
+        }
+
+        if (playerLayer != -1 && obstacleLayer != -1)
+        {
+            Physics2D.IgnoreLayerCollision(playerLayer, obstacleLayer, false);
+        }
+
+        esInvulnerable = false;
     }
 }

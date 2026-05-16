@@ -65,7 +65,7 @@ public class DistanceScore : MonoBehaviour
     {
         if (distanceText != null)
         {
-            distanceText.text = "Distancia: " + Mathf.FloorToInt(distance) + " m";
+            distanceText.text = "" + Mathf.FloorToInt(distance) + "m";
         }
     }
 

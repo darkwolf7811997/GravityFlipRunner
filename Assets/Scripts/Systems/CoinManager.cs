@@ -10,6 +10,7 @@ public class CoinManager : MonoBehaviour
     [Header("HUD")]
     [SerializeField] private TMP_Text runCoinsText;
     [SerializeField] private TMP_Text totalCoinsText;
+    [SerializeField] private Animator coinHudAnimator;
 
     private int runCoins;
     private int totalCoins;
@@ -36,10 +37,15 @@ public class CoinManager : MonoBehaviour
         runCoins += amount;
         totalCoins += amount;
 
+
         PlayerPrefs.SetInt(TotalCoinsKey, totalCoins);
         PlayerPrefs.Save();
 
         UpdateUI();
+        if (coinHudAnimator != null)
+        {
+            coinHudAnimator.Play("CoinHUDPop", 0, 0f);
+        }
     }
 
     public void ResetRunCoins()
@@ -56,9 +62,11 @@ public class CoinManager : MonoBehaviour
     private void UpdateUI()
     {
         if (runCoinsText != null)
-            runCoinsText.text = "Monedas: " + runCoins;
+            runCoinsText.text = "" + runCoins;
 
         if (totalCoinsText != null)
             totalCoinsText.text = "Total: " + totalCoins;
+
+       
     }
 }

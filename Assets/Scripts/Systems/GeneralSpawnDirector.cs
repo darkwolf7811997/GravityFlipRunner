@@ -71,6 +71,14 @@ public class GeneralSpawnDirector : MonoBehaviour
     private float runTime;
     private int lastSide = -1;
 
+    [Header("Vehicle Power-Up")]
+    [SerializeField] private bool enableVehicles = true;
+    [SerializeField] private GameObject[] vehiclePowerUpPrefabs;
+    [SerializeField] private float vehicleSpawnEveryMeters = 800f;
+    [SerializeField] private float vehicleStartDistance = 800f;
+
+    private float nextVehicleSpawnX;
+
     private void Start()
     {
         FollowPlayer();
@@ -81,6 +89,11 @@ public class GeneralSpawnDirector : MonoBehaviour
         if (player != null)
         {
             nextSpeedZoneSpawnX = player.position.x + speedZoneStartDistance;
+        }
+
+        if (player != null)
+        {
+            nextVehicleSpawnX = player.position.x + vehicleStartDistance;
         }
     }
 
@@ -113,6 +126,15 @@ public class GeneralSpawnDirector : MonoBehaviour
             {
                 SpawnSpeedZone();
                 nextSpeedZoneSpawnX += Random.Range(speedZoneMinDistance, speedZoneMaxDistance);
+            }
+        }
+
+        if (enableVehicles && vehiclePowerUpPrefabs != null && vehiclePowerUpPrefabs.Length > 0 && player != null)
+        {
+            if (player.position.x >= nextVehicleSpawnX)
+            {
+                SpawnVehiclePowerUp();
+                nextVehicleSpawnX += vehicleSpawnEveryMeters;
             }
         }
     }
@@ -252,6 +274,24 @@ public class GeneralSpawnDirector : MonoBehaviour
         Transform lanePoint = Random.value > 0.5f ? groundCoinPoint : ceilingCoinPoint;
 
         if (lanePoint == null) return;
+
+        Vector3 spawnPos = new Vector3(
+            transform.position.x,
+            lanePoint.position.y,
+            0f
+        );
+
+        Instantiate(prefabToSpawn, spawnPos, Quaternion.identity);
+    }
+
+    private void SpawnVehiclePowerUp()
+    {
+        if (vehiclePowerUpPrefabs == null || vehiclePowerUpPrefabs.Length == 0) return;
+
+        int index = Random.Range(0, vehiclePowerUpPrefabs.Length);
+        GameObject prefabToSpawn = vehiclePowerUpPrefabs[index];
+
+        Transform lanePoint = middleCoinPoint;
 
         Vector3 spawnPos = new Vector3(
             transform.position.x,

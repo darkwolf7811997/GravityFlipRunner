@@ -64,10 +64,6 @@ public class LoopingScenarioSegment : MonoBehaviour
 
         ScenarioManager.Scenario scenario = scenarioManager.GetScenarioForSegmentIndex(segmentIndex);
 
-        visual.Setup(
-            scenario.backgroundSprite,
-            scenario.groundSprite,
-            scenario.ceilingSprite
-        );
+        visual.Setup(scenario, segmentIndex);
     }
 }
